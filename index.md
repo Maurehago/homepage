@@ -28,6 +28,8 @@ Syntax highlighted code block
 
 ```gdscript
 print("Hallo")
+var meinMesh: MeshInstance = preload("res://test.mesh").instance()
+
 ```
 
 
