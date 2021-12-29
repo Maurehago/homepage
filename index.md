@@ -4,15 +4,14 @@ You can use the [editor on GitHub](https://github.com/Maurehago/homepage/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<div style="float-left">
+<div style="float: left; width: 200px;">  
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 </div>
-
-<hr>
-
-<div style="float-left">
+<div style="float: left; width: 200px;">  
+  
 ```gdscript
 print("Hallo")
 var meinMesh: MeshInstance = preload("res://test.mesh").instance()
